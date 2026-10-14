@@ -4,7 +4,7 @@ A Computer Vision project that uses a Convolutional Neural Network (CNN) to clas
 
 🚀 Live Demo
 
-
+https://weatherprediction-imageclassification-v6yynt2vtxncusnr6ruoqd.streamlit.app/
 
 🔗 Try the App: Weather Classification Demo
 
